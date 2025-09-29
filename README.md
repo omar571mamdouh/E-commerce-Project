@@ -28,6 +28,13 @@ Displays all products with details and an option to add them to the cart.
 
 ---
 
+
+### 🛍️ Details Page
+"Added product details image feature to enhance the user experience. Now each product includes a dedicated image in the details view, providing users with a clearer and more engaging way to explore items." 
+![Products Page](./screenshots/details.png)
+
+---
+
 ### 🛒 Cart Page
 Shows all selected products with total price and checkout button.  
 ![Cart Page](./screenshots/cart.png)
